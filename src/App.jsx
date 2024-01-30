@@ -3,6 +3,7 @@ import moment from "moment-timezone"
 import axios from 'axios';
 import Calendar from './components/Calendar';
 import WeeklyNavigation from './components/WeeklyNavigation'
+import "./App.css";
 
 
 const App = () => {
